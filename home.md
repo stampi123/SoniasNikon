@@ -1,2 +1,2 @@
-[Home] home.html
-[About Me] AboutMe.html 
+[Home](home.html)
+[About Me](AboutMe.html) 
